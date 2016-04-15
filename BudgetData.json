@@ -1,0 +1,8 @@
+{
+  "campaigns":
+  [
+    {"campaignId":66,"budget":1500},
+    {"campaignId":67,"budget":2800},
+    {"campaignId":68,"budget":900}
+  ]
+}

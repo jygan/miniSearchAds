@@ -1,0 +1,15 @@
+{
+  "ads":
+  [
+    {"adId":1231,"campaignId":66,"keyWords":["basketball","kobe","shoe","nike"],"pClick":0.03,"bidPrice":6.0},
+    {"adId":1232,"campaignId":66,"keyWords":["running","shoe","nike"],"pClick":0.03,"bidPrice":4.5},
+    {"adId":1233,"campaignId":66,"keyWords":["soccer","shoe","nike"],"pClick":0.03,"bidPrice":4.0},
+    {"adId":1234,"campaignId":67,"keyWords":["running","shoe","adidas"],"pClick":0.03,"bidPrice":7.5},
+    {"adId":1235,"campaignId":67,"keyWords":["soccer","shoe","adidas"],"pClick":0.03,"bidPrice":3.5},
+    {"adId":1236,"campaignId":67,"keyWords":["basketball","shoe","adidas"],"pClick":0.03,"bidPrice":5.5},
+    {"adId":1237,"campaignId":68,"keyWords":["hawaii","hotel"],"pClick":0.03,"bidPrice":15.0},
+    {"adId":1238,"campaignId":68,"keyWords":["hawaii","flight"],"pClick":0.03,"bidPrice":25.0},
+    {"adId":1239,"campaignId":68,"keyWords":["miami","hotel"],"pClick":0.03,"bidPrice":16.0},
+    {"adId":1240,"campaignId":68,"keyWords":["miami","flight"],"pClick":0.03,"bidPrice":22.0}
+  ]
+}
